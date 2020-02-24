@@ -40,3 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Saliency Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ylgkQkxRAtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Feature Map Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9OCJqV4tCAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
