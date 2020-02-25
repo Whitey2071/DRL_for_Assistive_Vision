@@ -13,5 +13,8 @@ Each individual image when passed to the input layer DNN produces a set of filte
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9OCJqV4tCAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Real Feature Map Video:
+As above, we further generated a video showing the direct filtering of real input images and the resultant filter responses across all optimised convolutional filters. This video shows a display of the diversity of the feature maps and their direct applicability to real RGB-D images. We can see identical features being emphasised to that of simulation such as edge and plane detection but further identify high-contrasting boundaries as being particularly important (see sensitivity plot in paper for further confirmation). 
+
+While the robustness compared to the simulated images is somewhat limited, we present this result as confirmation that direct input is possible despite training via simulation. The environment we used for training was both highly symmetric and limited in its encoding of realistic physics (i.e. lighting effects). We assert that training on a more realistic environment with a more constrained reward setting should move toward directly bridging the gap between the simulation and reality. These assertions will be tested in future work. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5rRO4TjyN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
